@@ -1,2 +1,2 @@
 # MapBiomas Pampa
-# script for collecton 5 processing
+# script for collecton 5
