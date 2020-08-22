@@ -1,6 +1,6 @@
 # MapBiomas Pampa
 
-For run à classification for Pampa we need run all steps scripts available
+For run a classification for Pampa we need run all steps scripts available
 The inputs of the next step are the output of previous.
 
 The processing has been splitted in 3 different times
