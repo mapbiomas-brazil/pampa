@@ -1,6 +1,6 @@
 <div class="fluid-row" id="header">
     <img src='./misc/geokarten-logo.jpeg' height='70' width='auto' align='right'>
-    <h1 class="title toc-ignore">Atlantic Forest</h1>
+    <h1 class="title toc-ignore">Pampa Biome</h1>
     <h4 class="author"><em>Developed by  GeoKarten - schirmbeck.j@gmail.com</em></h4>
 </div>
 
