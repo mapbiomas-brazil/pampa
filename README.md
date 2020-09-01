@@ -17,7 +17,7 @@ First, you need to copy these scripts (including those in utils folder) to your 
 * ***Step004_export_anual_sample.js***: export training samples for each year; 
 
 # Classification -  run the random forest classification
-* ***Step005_class_run_Pampa_R01_col05.js***: run the randonforest and export classification for region1; 
+* [***Step005_class_run_Pampa_R01_col05.js***]('./step_5/Step005_class_run_Pampa_R01_col05.js'): run the randonforest and export classification for region1; 
 * ***Step005_class_run_Pampa_R02_col05.js***: run the randonforest and export classification for region2; 
 * ***Step005_class_run_Pampa_R03_col05.js***: run the randonforest and export classification for region3; 
 * ***Step005_class_run_Pampa_R04_col05.js***: run the randonforest and export classification for region4; 
